@@ -21,7 +21,7 @@
   <img src="images/giphy.gif" alt="Coding GIF" width="800" style="border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 </p>
 
-<!-- SKILLS GRANDES Y VISTOSOS -->
+<!-- SKILLS -->
 <p align="center" style="margin-top:30px; display:flex; justify-content:center; flex-wrap:wrap; gap:16px;">
 
   <span style="background:#00b894; color:white; padding:18px 25px; border-radius:16px; font-weight:bold; font-size:26px;">
@@ -46,7 +46,6 @@
 
 </p>
 
-
 ---
 
 ## 🧑‍💻 Sobre mí
@@ -60,15 +59,35 @@ Me gusta compartir proyectos que combinen análisis, programación y seguridad d
 ---
 
 ## 🛠️ Habilidades
-<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
-  <span style="background:#4CAF50; color:white; padding:5px 10px; border-radius:5px;">Python</span>
-  <span style="background:#4CAF50; color:white; padding:5px 10px; border-radius:5px;">SQL</span>
-  <span style="background:#4CAF50; color:white; padding:5px 10px; border-radius:5px;">Machine Learning</span>
-  <span style="background:#4CAF50; color:white; padding:5px 10px; border-radius:5px;">Visualización</span>
-  <span style="background:#4CAF50; color:white; padding:5px 10px; border-radius:5px;">Web Dev</span>
-  <span style="background:#4CAF50; color:white; padding:5px 10px; border-radius:5px;">Ciberseguridad</span>
-  <span style="background:#4CAF50; color:white; padding:5px 10px; border-radius:5px;">Pentesting</span>
-</div>
+
+<p align="center" style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center; margin-top:15px;">
+
+  <span style="background:#00b894; color:white; padding:18px 30px; border-radius:20px; font-weight:bold; font-size:24px;">
+    🐍 Python
+  </span>
+
+  <span style="background:#0984e3; color:white; padding:18px 30px; border-radius:20px; font-weight:bold; font-size:24px;">
+    💾 SQL
+  </span>
+
+  <span style="background:#fdcb6e; color:white; padding:18px 30px; border-radius:20px; font-weight:bold; font-size:24px;">
+    🤖 Machine Learning
+  </span>
+
+  <span style="background:#6c5ce7; color:white; padding:18px 30px; border-radius:20px; font-weight:bold; font-size:24px;">
+    📊 Visualización
+  </span>
+
+  <span style="background:#e17055; color:white; padding:18px 30px; border-radius:20px; font-weight:bold; font-size:24px;">
+    🌐 Web Dev
+  </span>
+
+  <span style="background:#fd79a8; color:white; padding:18px 30px; border-radius:20px; font-weight:bold; font-size:24px;">
+    🛡️ Ciberseguridad
+  </span>
+
+  <span style="background:#d63031; color:white; padding:18px 30px; border-radius:20px; fo
+
 
 ---
 
