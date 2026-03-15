@@ -1,23 +1,33 @@
-<h1 align="center">👋 Hola, soy Agustín Acosta</h1>
-
+<!-- HEADER MODERNO PARA README -->
 <p align="center" style="font-family: 'Arial', sans-serif;">
-  <span style="font-size:40px; font-weight:bold; color:#4CAF50;">
+  <span style="font-size:48px; font-weight:bold; color:#00b894;">
+    👋 Hola, soy Agustín Acosta
+  </span><br><br>
+  <span style="font-size:22px; color:#2d3436;">
     Programador | Analista de Datos | Machine Learning | Ciberseguridad
   </span><br><br>
-  <span style="font-size:20px; color:#333;">
+  <span style="font-size:18px;">
     📍 Banfield, Argentina
   </span><br>
   <span style="font-size:18px;">
-    🔗 <a href="https://www.linkedin.com/in/agustinrodr/" style="color:#1DA1F2;">LinkedIn</a> | 
-    ✉️ <a href="mailto:accosta.agustiin@gmail.com" style="color:#E91E63;">Email</a> | 
-    🌐 <a href="#" style="color:#FF9800;">Portfolio</a>
+    🔗 <a href="https://www.linkedin.com/in/agustinrodr/" style="color:#0984e3; text-decoration:none;">LinkedIn</a> | 
+    ✉️ <a href="mail:accosta.agustiin@gmail.com" style="color:#d63031; text-decoration:none;">Email</a> | 
+    🌐 <a href="#" style="color:#fdcb6e; text-decoration:none;">Portfolio</a>
   </span>
 </p>
 
-
 <p align="center">
-  <img src="images/giphy.gif" alt="Coding GIF" width="700">
+  <img src="images/giphy.gif" alt="Coding GIF" width="600" style="border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 </p>
+
+<p align="center" style="margin-top:20px;">
+  <span style="background:#00b894; color:white; padding:5px 10px; border-radius:5px; font-weight:bold; margin:2px;">Python</span>
+  <span style="background:#0984e3; color:white; padding:5px 10px; border-radius:5px; font-weight:bold; margin:2px;">SQL</span>
+  <span style="background:#fdcb6e; color:white; padding:5px 10px; border-radius:5px; font-weight:bold; margin:2px;">Machine Learning</span>
+  <span style="background:#6c5ce7; color:white; padding:5px 10px; border-radius:5px; font-weight:bold; margin:2px;">Ciberseguridad</span>
+  <span style="background:#e17055; color:white; padding:5px 10px; border-radius:5px; font-weight:bold; margin:2px;">Web Dev</span>
+</p>
+
 
 ---
 
