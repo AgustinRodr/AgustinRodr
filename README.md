@@ -1,5 +1,5 @@
 <!-- HEADER MODERNO Y TÍTULO GRANDE -->
-<h1 align="center" style="font-size:100px; color:#00b894; font-weight:bold; font-family: 'Arial', sans-serif;">
+<h1 align="center" style="font-size:300px; color:#00b894; font-weight:bold; font-family: 'Arial', sans-serif;">
   👋 Hola, soy Agustín Acosta
 </h1>
 
