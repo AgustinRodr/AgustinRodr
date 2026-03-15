@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="image/giphy.gif" alt="Coding GIF" width="500">
+  <img src="images/giphy.gif" alt="Coding GIF" width="500">
 </p>
 
 ---
