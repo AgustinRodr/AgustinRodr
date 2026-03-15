@@ -21,13 +21,31 @@
   <img src="images/giphy.gif" alt="Coding GIF" width="800" style="border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 </p>
 
-<p align="center" style="margin-top:20px;">
-  <span style="background:#00b894; color:white; padding:8px 15px; border-radius:5px; font-weight:bold; margin:3px;">Python</span>
-  <span style="background:#0984e3; color:white; padding:8px 15px; border-radius:5px; font-weight:bold; margin:3px;">SQL</span>
-  <span style="background:#fdcb6e; color:white; padding:8px 15px; border-radius:5px; font-weight:bold; margin:3px;">Machine Learning</span>
-  <span style="background:#6c5ce7; color:white; padding:8px 15px; border-radius:5px; font-weight:bold; margin:3px;">Ciberseguridad</span>
-  <span style="background:#e17055; color:white; padding:8px 15px; border-radius:5px; font-weight:bold; margin:3px;">Web Dev</span>
+<!-- SKILLS MODERNOS CON ICONOS -->
+<p align="center" style="margin-top:25px; display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
+
+  <span style="background:#00b894; color:white; padding:10px 18px; border-radius:12px; font-weight:bold; font-size:18px;">
+    🐍 Python
+  </span>
+
+  <span style="background:#0984e3; color:white; padding:10px 18px; border-radius:12px; font-weight:bold; font-size:18px;">
+    💾 SQL
+  </span>
+
+  <span style="background:#fdcb6e; color:white; padding:10px 18px; border-radius:12px; font-weight:bold; font-size:18px;">
+    🤖 Machine Learning
+  </span>
+
+  <span style="background:#6c5ce7; color:white; padding:10px 18px; border-radius:12px; font-weight:bold; font-size:18px;">
+    🛡️ Ciberseguridad
+  </span>
+
+  <span style="background:#e17055; color:white; padding:10px 18px; border-radius:12px; font-weight:bold; font-size:18px;">
+    🌐 Web Dev
+  </span>
+
 </p>
+
 
 
 
