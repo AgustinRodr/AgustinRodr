@@ -70,7 +70,7 @@ Me gusta compartir proyectos que combinen análisis, programación y seguridad d
 ---
 
 ## 📬 Contacto
-- Email: [agustin.email@gmail.com](mail:accosta.agustiin@gmail.com)  
+- Email: [accosta.agustiin@gmail.com](mail:accosta.agustiin@gmail.com)  
 - LinkedIn: 
 - Banfield, Argentina
 
