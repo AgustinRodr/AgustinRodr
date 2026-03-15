@@ -1,6 +1,6 @@
 <!-- HEADER MODERNO PARA README -->
 <p align="center" style="font-family: 'Arial', sans-serif;">
-  <span style="font-size:48px; font-weight:bold; color:#00b894;">
+  <span style="font-size:58px; font-weight:bold; color:#00b894;">
     👋 Hola, soy Agustín Acosta
   </span><br><br>
   <span style="font-size:22px; color:#2d3436;">
