@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hola, soy Agustín Acosta
+Desarrollador y entusiasta de Ciencia de Datos | Python | Machine Learning | Web Dev
 
-<!--
-**AgustinRodr/AgustinRodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Desde Banfield, Argentina  
 
-Here are some ideas to get you started:
+![Coding GIF](assets/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+- Apasionado por analizar datos y crear soluciones basadas en Machine Learning.  
+- Experiencia con Python, SQL y herramientas de visualización.  
+- Me gusta compartir proyectos que ayuden a entender la data de manera práctica.
+
+## 🛠️ Habilidades
+- **Lenguajes:** Python, SQL, HTML, CSS, JavaScript  
+- **Frameworks / Librerías:** Pandas, NumPy, Matplotlib, Flask  
+- **Herramientas:** Git, GitHub, VS Code, Jupyter Notebook  
+- **Bases de datos:** MySQL, PostgreSQL
+
+## 📂 Proyectos destacados
+-
+-
+-
+-
+
+## 📬 Contacto
+- Email: agustin.email@gmail.com  
+- LinkedIn: 
