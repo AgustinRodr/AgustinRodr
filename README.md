@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="images/giphy.gif" alt="Coding GIF" width="650" style="border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+  <img src="images/giphy.gif" alt="Coding GIF" width="600" style="border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 </p>
 
 <p align="center" style="margin-top:20px;">
