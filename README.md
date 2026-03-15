@@ -73,15 +73,7 @@ Me gusta compartir proyectos que combinen análisis, programación y seguridad d
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agustinrodr&show_icons=true&theme=radical" alt="Agustin GitHub stats">
-</p>
-
----
-
 ## 📬 Contacto
 - Email: [accosta.agustiin@gmail.com](mail:accosta.agustiin@gmail.com)  
-- LinkedIn: 
 - Banfield, Argentina
 
