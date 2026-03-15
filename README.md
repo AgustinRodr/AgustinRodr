@@ -59,40 +59,10 @@ Me gusta compartir proyectos que combinen análisis, programación y seguridad d
 ---
 
 ## 🛠️ Habilidades
-
-<p align="center" style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center; margin-top:15px;">
-
-  <span style="background:#00b894; color:white; padding:18px 30px; border-radius:20px; font-weight:bold; font-size:24px;">
-    🐍 Python
-  </span>
-
-  <span style="background:#0984e3; color:white; padding:18px 30px; border-radius:20px; font-weight:bold; font-size:24px;">
-    💾 SQL
-  </span>
-
-  <span style="background:#fdcb6e; color:white; padding:18px 30px; border-radius:20px; font-weight:bold; font-size:24px;">
-    🤖 Machine Learning
-  </span>
-
-  <span style="background:#6c5ce7; color:white; padding:18px 30px; border-radius:20px; font-weight:bold; font-size:24px;">
-    📊 Visualización
-  </span>
-
-  <span style="background:#e17055; color:white; padding:18px 30px; border-radius:20px; font-weight:bold; font-size:24px;">
-    🌐 Web Dev
-  </span>
-
-  <span style="background:#fd79a8; color:white; padding:18px 30px; border-radius:20px; font-weight:bold; font-size:24px;">
-    🛡️ Ciberseguridad
-  </span>
-
-  <span style="background:#d63031; color:white; padding:18px 30px; border-radius:20px; font-weight:bold; font-size:24px;">
-    🕵️‍♂️ Pentesting
-  </span>
-
-</p>
-
-
+- **Lenguajes:** Python, SQL, HTML, CSS, JavaScript  
+- **Frameworks / Librerías:** Pandas, NumPy, Matplotlib, Flask  
+- **Herramientas:** Git, GitHub, VS Code, Jupyter Notebook  
+- **Bases de datos:** MySQL, PostgreSQL
 ---
 
 ## 📂 Proyectos destacados
