@@ -1,10 +1,19 @@
 <h1 align="center">👋 Hola, soy Agustín Acosta</h1>
 
-<p align="center">
-  <b>Programador | Analista de Datos | Machine Learning | Ciberseguridad</b><br>
-  📍 Banfield, Argentina<br>
-  🔗 <a href="https://www.linkedin.com/in/agustinrodr/">LinkedIn</a> | ✉️ <a href="mail:accosta.agustiin@gmail.com">Email</a> | 🌐 <a href="#">Portfolio</a>
+<p align="center" style="font-family: 'Arial', sans-serif;">
+  <span style="font-size:40px; font-weight:bold; color:#4CAF50;">
+    Programador | Analista de Datos | Machine Learning | Ciberseguridad
+  </span><br><br>
+  <span style="font-size:20px; color:#333;">
+    📍 Banfield, Argentina
+  </span><br>
+  <span style="font-size:18px;">
+    🔗 <a href="https://www.linkedin.com/in/agustinrodr/" style="color:#1DA1F2;">LinkedIn</a> | 
+    ✉️ <a href="mailto:accosta.agustiin@gmail.com" style="color:#E91E63;">Email</a> | 
+    🌐 <a href="#" style="color:#FF9800;">Portfolio</a>
+  </span>
 </p>
+
 
 <p align="center">
   <img src="images/giphy.gif" alt="Coding GIF" width="700">
