@@ -3,7 +3,7 @@ Desarrollador y entusiasta de Ciencia de Datos | Python | Machine Learning | Web
 
 📍 Desde Banfield, Argentina  
 
-![Coding GIF](assets/giphy.gif)
+![Coding GIF](images/giphy.gif)
 
 ## Sobre mí
 - Apasionado por analizar datos y crear soluciones basadas en Machine Learning.  
