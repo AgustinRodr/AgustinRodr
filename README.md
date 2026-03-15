@@ -59,10 +59,10 @@ Me gusta compartir proyectos que combinen análisis, programación y seguridad d
 ---
 
 ## 🛠️ Habilidades
-- **Lenguajes:** Python, SQL, HTML, CSS, JavaScript  
-- **Frameworks / Librerías:** Pandas, NumPy, Matplotlib, Flask  
-- **Herramientas:** Git, GitHub, VS Code, Jupyter Notebook  
-- **Bases de datos:** MySQL, PostgreSQL
+- **Lenguajes:** C, C++, C#, Python, SQL, HTML, CSS, JavaScript  
+- **Frameworks / Librerías:** Pandas, NumPy, Matplotlib, Flask, Scikit-learn
+- **Herramientas:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, VirtualBox, Metasploit
+- **Bases de datos:** SQLite3, MySQL, PostgreSQL
 ---
 
 ## 📂 Proyectos destacados
