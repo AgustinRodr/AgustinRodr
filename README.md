@@ -86,7 +86,11 @@ Me gusta compartir proyectos que combinen análisis, programación y seguridad d
     🛡️ Ciberseguridad
   </span>
 
-  <span style="background:#d63031; color:white; padding:18px 30px; border-radius:20px; fo
+  <span style="background:#d63031; color:white; padding:18px 30px; border-radius:20px; font-weight:bold; font-size:24px;">
+    🕵️‍♂️ Pentesting
+  </span>
+
+</p>
 
 
 ---
