@@ -1,6 +1,6 @@
 <!-- HEADER MODERNO PARA README -->
 <p align="center" style="font-family: 'Arial', sans-serif;">
-  <span style="font-size:58px; font-weight:bold; color:#00b894;">
+  <span style="font-size:48px; font-weight:bold; color:#00b894;">
     👋 Hola, soy Agustín Acosta
   </span><br><br>
   <span style="font-size:22px; color:#2d3436;">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="images/giphy.gif" alt="Coding GIF" width="800" style="border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+  <img src="images/giphy.gif" alt="Coding GIF" width="700" style="border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 </p>
 
 <p align="center" style="margin-top:20px;">
