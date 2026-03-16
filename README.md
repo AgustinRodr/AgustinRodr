@@ -11,12 +11,6 @@
   📍 Banfield, Argentina
 </p>
 
-<p align="center" style="font-size:22px;">
-  🔗 <a href="https://www.linkedin.com/in/agustinrodr/" style="color:#0984e3; text-decoration:none;">LinkedIn</a> | 
-  ✉️ <a href="mailto:accosta.agustiin@gmail.com" style="color:#d63031; text-decoration:none;">Email</a> | 
-  🌐 <a href="#" style="color:#fdcb6e; text-decoration:none;">Portfolio</a>
-</p>
-
 <p align="center">
   <img src="images/giphy.gif" alt="Coding GIF" width="800" style="border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 </p>
