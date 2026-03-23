@@ -57,13 +57,7 @@ Me gusta compartir proyectos que combinen análisis, programación y seguridad d
 - **Frameworks / Librerías:** Pandas, NumPy, Matplotlib, Flask, Scikit-learn
 - **Herramientas:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, VirtualBox, Metasploit
 - **Bases de datos:** SQLite3, MySQL, PostgreSQL
----
 
-## 📂 Proyectos destacados
-- [Análisis de Datos COVID-19](https://github.com/agustinrodr/covid-data-analysis) – Python, Pandas, Matplotlib  
-- [Portfolio Web Personal](https://github.com/agustinrodr/portfolio-web) – HTML, CSS, JavaScript  
-- [Predicción de Ventas](https://github.com/agustinrodr/sales-forecast) – Python, Machine Learning  
-- [Práctica de Hacking Ético](https://github.com/agustinrodr/metasploitable-labs) – Kali Linux, Metasploit  
 
 ---
 
