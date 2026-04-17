@@ -1,43 +1,49 @@
-<!-- HEADER MODERNO Y TÍTULO GRANDE -->
-<h1 align="center" style="font-size:800px; color:#00b894; font-weight:bold; font-family: 'Arial', sans-serif;">
+<h1 align="center">
   👋 Hola, soy Agustín Acosta
 </h1>
 
-<p align="center" style="font-size:28px; color:#2d3436; font-weight:bold;">
+<h3 align="center">
   Programador | Analista de Datos | Machine Learning | Ciberseguridad
-</p>
+</h3>
 
-<p align="center" style="font-size:22px; color:#636e72;">
+<p align="center">
   📍 Banfield, Argentina
 </p>
 
+
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E8B57?style=flat&logo=protonvpn&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+
 <p align="center">
   <img src="images/giphy.gif" alt="Coding GIF" width="800" style="border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-</p>
-
-<!-- SKILLS -->
-<p align="center" style="margin-top:30px; display:flex; justify-content:center; flex-wrap:wrap; gap:16px;">
-
-  <span style="background:#00b894; color:white; padding:18px 25px; border-radius:16px; font-weight:bold; font-size:26px;">
-    🐍 Python
-  </span>
-
-  <span style="background:#0984e3; color:white; padding:18px 25px; border-radius:16px; font-weight:bold; font-size:26px;">
-    💾 SQL
-  </span>
-
-  <span style="background:#fdcb6e; color:white; padding:18px 25px; border-radius:16px; font-weight:bold; font-size:26px;">
-    🤖 Machine Learning
-  </span>
-
-  <span style="background:#6c5ce7; color:white; padding:18px 25px; border-radius:16px; font-weight:bold; font-size:26px;">
-    🛡️ Ciberseguridad
-  </span>
-
-  <span style="background:#e17055; color:white; padding:18px 25px; border-radius:16px; font-weight:bold; font-size:26px;">
-    🌐 Web Dev
-  </span>
-
 </p>
 
 ---
