@@ -47,10 +47,8 @@
 
 ##  Sobre mí
 <div style="background-color:#e8f5e9; padding:15px; border-radius:10px;">
-Apasionado programador y analista de datos con experiencia en Python, SQL y Machine Learning.  
-Desarrollo soluciones prácticas, visualización de datos y proyectos web.  
-También me interesa la ciberseguridad y prácticas de pentesting ético.  
-Me gusta compartir proyectos que combinen análisis, programación y seguridad de manera clara y práctica.
+Apasionado desarrollador de software y analista de datos con experiencia en Python, SQL y Machine Learning. 
+Me especializo en crear soluciones prácticas, visualizaciones de datos y proyectos web. También tengo un fuerte interés en la ciberseguridad y en las prácticas de pentesting ético. Disfruto compartir proyectos que integren análisis, programación y seguridad de manera clara, profesional y accesible.
 </div>
 
 ---
