@@ -1,17 +1,14 @@
 <h1 align="center">
-  👋 Hola, soy Agustín Acosta
+   Hola, soy Agustín Acosta
 </h1>
 
 <h3 align="center">
-  Programador | Analista de Datos | Machine Learning | Ciberseguridad
+  Software Developer | Data Analyst | Machine Learning & AI | Cybersecurity | Database Management
 </h3>
 
 <p align="center">
-  📍 Banfield, Argentina
+   Banfield, Argentina
 </p>
-
-
-## 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -48,7 +45,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+##  Sobre mí
 <div style="background-color:#e8f5e9; padding:15px; border-radius:10px;">
 Apasionado programador y analista de datos con experiencia en Python, SQL y Machine Learning.  
 Desarrollo soluciones prácticas, visualización de datos y proyectos web.  
@@ -58,7 +55,7 @@ Me gusta compartir proyectos que combinen análisis, programación y seguridad d
 
 ---
 
-## 🛠️ Habilidades
+##  Habilidades
 - **Lenguajes:** C, C++, C#, Python, SQL, HTML, CSS, JavaScript  
 - **Frameworks / Librerías:** Pandas, NumPy, Matplotlib, Flask, Scikit-learn
 - **Herramientas:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, VirtualBox, Metasploit
@@ -67,6 +64,6 @@ Me gusta compartir proyectos que combinen análisis, programación y seguridad d
 
 ---
 
-## 📬 Contacto
+##  Contacto
 - Email: [accosta.agustiin@gmail.com](mail:accosta.agustiin@gmail.com)  
 
